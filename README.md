@@ -1,4 +1,4 @@
-# BindCraft 2 Design Pipeline (Colab)
+# BindCraft 2 Design Pipeline (Colab) - **BETA**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amiralito/BindCraft2_Colab/blob/main/BindCraft2_design_pipeline.ipynb)
 
